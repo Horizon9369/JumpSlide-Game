@@ -1,12 +1,12 @@
 # Jump Slide Game
 
-**Jump Slide Game** is a Windows desktop game distributed here by **Horizon9369**.
+**Jump Slide Game** is a Windows desktop game by **Horizon9369**.
 
-## Download and run
+## Download
 
-The repository includes `JumpSlide.exe`, a 64-bit Windows GUI executable. Download the file from this repository and run it on a compatible Windows system. The source code and build instructions are not included in this repository.
+Get the game from its official itch.io page: [horizon9369.itch.io/jumpslide](https://horizon9369.itch.io/jumpslide).
 
-Only run executable files you trust. Windows may display a security prompt for downloaded applications.
+This repository does not distribute the game executable or include the source code/build instructions.
 
 ## Ownership and permitted use
 
@@ -18,8 +18,7 @@ See [LICENSE](LICENSE) for the complete terms. Repository visibility does not gr
 
 ## Repository contents
 
-- `JumpSlide.exe` — Windows x86-64 game executable supplied by the owner.
-- `README.md` — project information and usage summary.
+- `README.md` — project information and official download link.
 - `LICENSE` — proprietary usage terms.
 
 ## Contact and permissions
